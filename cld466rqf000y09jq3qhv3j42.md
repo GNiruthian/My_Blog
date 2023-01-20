@@ -1,6 +1,6 @@
 # Print("👋Hello World!")
 
-👋 Greetings, I am G.Niruthian.
+👋 Greetings, I am [G.Niruthian](https://www.linkedin.com/in/gniruthian/).
 
 In 2023 I have some goals, Blog writing is one of my new year resolutions.
 
