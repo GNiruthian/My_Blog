@@ -1,4 +1,14 @@
-# Keyboard Shortcuts in MS Word
+---
+title: "Keyboard Shortcuts in MS Word"
+seoTitle: "Keyboard shortcut keys to help your MS Word functionality,"
+datePublished: Sun Feb 26 2023 00:26:39 GMT+0000 (Coordinated Universal Time)
+cuid: clekni4re000009me8ht65de9
+slug: keyboard-shortcuts-in-ms-word
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677371097133/1037fb2f-646f-48d0-bfa7-25ed290ff016.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677371165626/b9080a2e-378d-4a24-9e3f-cb898e9eac12.jpeg
+tags: typing, windows, shortcuts, keyboard-shortcuts, ms-word
+
+---
 
 1. Ctrl + O
     
